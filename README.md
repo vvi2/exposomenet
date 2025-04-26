@@ -8,5 +8,5 @@ ExposomeNet integrates environmental exposure data with electronic health record
 
 ## Installation
 
-Instructions for setting up the project...
+Instructions for setting up the project TBD
 
